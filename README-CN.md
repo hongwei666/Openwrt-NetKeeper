@@ -7,7 +7,6 @@
 
 论坛见[这里](http://www.right.com.cn/forum/thread-141979-1-1.html)
 
-~~QQ群在这里495772016~~
 
 
 心跳已经通过Android版反编译出来了，不过应该是烂尾了，找工作没时间移植了（用脚本语言发套接字就可以）.... <https://github.com/miao1007/android-netkeeper>
@@ -25,6 +24,7 @@
 6. 青海/新疆
 7. 河北
 8. 山东移动
+9.  西安
 
 查看更多： [supported radius](https://github.com/miao1007/Openwrt-NetKeeper/blob/master/src/makefile#L10)
 
